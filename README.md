@@ -21,6 +21,6 @@ To run the model with the new initial conditions, it is necessary to press the "
 ## Authors
 Vittoria Socci, Eleonora Vitanza and Chiara Mocenni
 ## License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 ## Acknowledgments
 The project takes inspiration from an existing Netlogo model: [NetLogo PD Basic Evolutionary model](http://ccl.northwestern.edu/netlogo/models/PDBasicEvolutionary).
